@@ -1,0 +1,45 @@
+.logotipo{
+    height: 60px;
+    margin-right: 10px;
+    width: 100%;
+}
+
+
+.navbar-brand{
+    display: flex;
+    height: 70px;
+    padding: 10px;
+}
+
+.nombreEmpresa{
+    font-size: 100px;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    font-weight: bold;
+}
+
+
+.login-container{
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+body{
+    background-color: rgba(18,17,31,1);
+}
+
+.card{
+    max-width:550px;
+    margin: auto;
+}
+
+.espacio{
+    height: 50px;
+}
+
+
+.col-md-9{
+    height: 200px;
+}
